@@ -6,7 +6,7 @@ public class OOPSBannerApp2 {
         // String.join() method for better readability and efficiency.
         // Each line corresponds to a row in the banner for the letters O, O, P, S.
 
-        System.out.println(String.join(" ", " * ", " * ", " ** ", " *** "));
+        System.out.println(String.join(" ",  " * ", " * ", " ** ", " *** "));
         System.out.println(String.join(" ", "* *", "* *", "* *", "** "));
         System.out.println(String.join(" ", "* *", "* *", "* *", "** "));
         System.out.println(String.join(" ", "* *", "* *", "** ", " ** "));
