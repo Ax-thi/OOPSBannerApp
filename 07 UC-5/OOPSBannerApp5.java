@@ -17,6 +17,7 @@ public class OOPSBannerApp5 {
         // Print each line using enhanced for loop
         for (String line : lines) {
             System.out.println(line);
+			System.out.println("welcome");
         }
     }
 }
